@@ -1,0 +1,54 @@
+D:\books\sem4\Database\DBMS LAB project\RestaurantManagementSystem\RestaurantManagementSystem\bin\Debug\RestaurantManagementSystem.exe.config
+D:\books\sem4\Database\DBMS LAB project\RestaurantManagementSystem\RestaurantManagementSystem\bin\Debug\RestaurantManagementSystem.exe
+D:\books\sem4\Database\DBMS LAB project\RestaurantManagementSystem\RestaurantManagementSystem\bin\Debug\RestaurantManagementSystem.pdb
+D:\books\sem4\Database\DBMS LAB project\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.Dashboard.resources
+D:\books\sem4\Database\DBMS LAB project\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.SignInPage.resources
+D:\books\sem4\Database\DBMS LAB project\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.Properties.Resources.resources
+D:\books\sem4\Database\DBMS LAB project\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.csproj.GenerateResource.cache
+D:\books\sem4\Database\DBMS LAB project\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.csproj.CoreCompileInputs.cache
+D:\books\sem4\Database\DBMS LAB project\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.exe
+D:\books\sem4\Database\DBMS LAB project\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.pdb
+D:\books\sem4\Database\DBMS LAB project\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.TakeOrders.resources
+D:\books\sem4\Database\DBMS LAB project\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.csprojAssemblyReference.cache
+D:\books\sem4\Database\DBMS LAB project\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.OrdersInplace.resources
+D:\books\sem4\Database\DBMS LAB project\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.Employees.resources
+D:\books\sem4\Database\DBMS LAB project\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.FoodItems.resources
+D:\books\sem4\Database\DBMS LAB project\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.OrderDetails.resources
+D:\books\sem4\Database\DBMS LAB project\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.AddEmployee.resources
+D:\books\sem4\Database\DBMS LAB project\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.AddItems.resources
+D:\books\sem4\Database\DBMS LAB project\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.AddTable.resources
+D:\books\sem4\Database\DBMS LAB project\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.Payment.resources
+D:\books\sem4\Database\DBMS LAB project\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.RemoveEmployee.resources
+D:\books\sem4\Database\DBMS LAB project\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.RemoveFoodItems.resources
+D:\books\sem4\Database\DBMS LAB project\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.RemoveTable.resources
+D:\books\sem4\Database\DBMS LAB project\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.UpdateEmployee.resources
+D:\books\sem4\Database\DBMS LAB project\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.UpdateItem.resources
+D:\books\sem4\Database\DBMS LAB project\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.UpdateTable.resources
+D:\books\sem4\Database\DBMS LAB project\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.TablesShow.resources
+C:\Users\Tayyab Asghar\Desktop\dawood\DBMS LAB project\RestaurantManagementSystem\RestaurantManagementSystem\bin\Debug\RestaurantManagementSystem.exe.config
+C:\Users\Tayyab Asghar\Desktop\dawood\DBMS LAB project\RestaurantManagementSystem\RestaurantManagementSystem\bin\Debug\RestaurantManagementSystem.exe
+C:\Users\Tayyab Asghar\Desktop\dawood\DBMS LAB project\RestaurantManagementSystem\RestaurantManagementSystem\bin\Debug\RestaurantManagementSystem.pdb
+C:\Users\Tayyab Asghar\Desktop\dawood\DBMS LAB project\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.csprojAssemblyReference.cache
+C:\Users\Tayyab Asghar\Desktop\dawood\DBMS LAB project\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.AddEmployee.resources
+C:\Users\Tayyab Asghar\Desktop\dawood\DBMS LAB project\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.AddItems.resources
+C:\Users\Tayyab Asghar\Desktop\dawood\DBMS LAB project\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.AddTable.resources
+C:\Users\Tayyab Asghar\Desktop\dawood\DBMS LAB project\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.Dashboard.resources
+C:\Users\Tayyab Asghar\Desktop\dawood\DBMS LAB project\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.Employees.resources
+C:\Users\Tayyab Asghar\Desktop\dawood\DBMS LAB project\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.FoodItems.resources
+C:\Users\Tayyab Asghar\Desktop\dawood\DBMS LAB project\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.OrderDetails.resources
+C:\Users\Tayyab Asghar\Desktop\dawood\DBMS LAB project\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.OrdersInplace.resources
+C:\Users\Tayyab Asghar\Desktop\dawood\DBMS LAB project\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.Payment.resources
+C:\Users\Tayyab Asghar\Desktop\dawood\DBMS LAB project\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.RemoveEmployee.resources
+C:\Users\Tayyab Asghar\Desktop\dawood\DBMS LAB project\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.RemoveFoodItems.resources
+C:\Users\Tayyab Asghar\Desktop\dawood\DBMS LAB project\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.RemoveTable.resources
+C:\Users\Tayyab Asghar\Desktop\dawood\DBMS LAB project\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.SignInPage.resources
+C:\Users\Tayyab Asghar\Desktop\dawood\DBMS LAB project\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.Properties.Resources.resources
+C:\Users\Tayyab Asghar\Desktop\dawood\DBMS LAB project\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.TablesShow.resources
+C:\Users\Tayyab Asghar\Desktop\dawood\DBMS LAB project\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.TakeOrders.resources
+C:\Users\Tayyab Asghar\Desktop\dawood\DBMS LAB project\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.UpdateEmployee.resources
+C:\Users\Tayyab Asghar\Desktop\dawood\DBMS LAB project\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.UpdateItem.resources
+C:\Users\Tayyab Asghar\Desktop\dawood\DBMS LAB project\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.UpdateTable.resources
+C:\Users\Tayyab Asghar\Desktop\dawood\DBMS LAB project\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.csproj.GenerateResource.cache
+C:\Users\Tayyab Asghar\Desktop\dawood\DBMS LAB project\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Tayyab Asghar\Desktop\dawood\DBMS LAB project\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.exe
+C:\Users\Tayyab Asghar\Desktop\dawood\DBMS LAB project\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.pdb
